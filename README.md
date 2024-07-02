@@ -2,6 +2,6 @@
 
 Use
 
+git clone https://github.com/bumblebeeMMa/DownLoad_frpc_linux_amd64.git
 
-
-Download frpc_linux_amd64
+to Download frpc_linux_amd64.
